@@ -16,7 +16,8 @@ There are a total of 6 variables listed in activity labels.
 
 All operations are done on R v3.1.2 in RStudio Desktop 0.98.1102. 
 
-    CodeBook.md: contains information on the instructions to create the tidy data set
-    README.md: this file
-    run_analysis.R: R script to transform raw data set in a tidy one
+List of files:
+1. README.md: this file
+2. CodeBook.md: contains information on the instructions to create the tidy data set
+3. run_analysis.R: R script to transform raw data set in a tidy one
 
