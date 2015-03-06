@@ -16,7 +16,7 @@ There are a total of 6 variables listed in activity labels.
 
 # Files and operations
 
-All operations are done on R v3.1.2 in RStudio Desktop 0.98.1102. 
+All operations are done on R v3.1.2 (64-bit mode) in RStudio Desktop 0.98.1102. 
 
 List of files:
 
