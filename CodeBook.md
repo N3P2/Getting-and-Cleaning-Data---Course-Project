@@ -8,7 +8,9 @@ Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Huma
 
 # Software used and versions
 Windows 7 OS (64 bit)
+
 R v3.1.2 (64-bit mode) 
+
 RStudio Desktop 0.98.1102
 
 # Package(s) required
@@ -45,8 +47,13 @@ The following files are available for the train and test data. Their description
 
 # Operation overview for run_analysis.R
 There are 5 parts:
+
 1. Merges the training and the test sets to create one data set.
+
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
+
 3. Uses descriptive activity names to name the activities in the data set
+
 4. Appropriately labels the data set with descriptive activity names.
+
 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
